@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-resort-landing-page/static/css/main.af13743c.chunk.css",
-    "main.js": "/React-resort-landing-page/static/js/main.092cbab0.chunk.js",
-    "main.js.map": "/React-resort-landing-page/static/js/main.092cbab0.chunk.js.map",
-    "runtime-main.js": "/React-resort-landing-page/static/js/runtime-main.88065b3e.js",
-    "runtime-main.js.map": "/React-resort-landing-page/static/js/runtime-main.88065b3e.js.map",
-    "static/js/2.3d1af5a7.chunk.js": "/React-resort-landing-page/static/js/2.3d1af5a7.chunk.js",
-    "static/js/2.3d1af5a7.chunk.js.map": "/React-resort-landing-page/static/js/2.3d1af5a7.chunk.js.map",
+    "main.js": "/React-resort-landing-page/static/js/main.dc284ce0.chunk.js",
+    "main.js.map": "/React-resort-landing-page/static/js/main.dc284ce0.chunk.js.map",
+    "runtime-main.js": "/React-resort-landing-page/static/js/runtime-main.5fd56c23.js",
+    "runtime-main.js.map": "/React-resort-landing-page/static/js/runtime-main.5fd56c23.js.map",
+    "static/js/2.c2a548ae.chunk.js": "/React-resort-landing-page/static/js/2.c2a548ae.chunk.js",
+    "static/js/2.c2a548ae.chunk.js.map": "/React-resort-landing-page/static/js/2.c2a548ae.chunk.js.map",
     "index.html": "/React-resort-landing-page/index.html",
-    "precache-manifest.68ac7eb2ec467be9d03912a53c9eeb3f.js": "/React-resort-landing-page/precache-manifest.68ac7eb2ec467be9d03912a53c9eeb3f.js",
+    "precache-manifest.322ae377a9ae0dd822d91e9626c6e0ff.js": "/React-resort-landing-page/precache-manifest.322ae377a9ae0dd822d91e9626c6e0ff.js",
     "service-worker.js": "/React-resort-landing-page/service-worker.js",
     "static/css/main.af13743c.chunk.css.map": "/React-resort-landing-page/static/css/main.af13743c.chunk.css.map",
-    "static/js/2.3d1af5a7.chunk.js.LICENSE.txt": "/React-resort-landing-page/static/js/2.3d1af5a7.chunk.js.LICENSE.txt",
+    "static/js/2.c2a548ae.chunk.js.LICENSE.txt": "/React-resort-landing-page/static/js/2.c2a548ae.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-resort-landing-page/static/media/room-2.052c7681.jpeg",
     "static/media/details-1.jpeg": "/React-resort-landing-page/static/media/details-1.33ab9f1e.jpeg",
     "static/media/details-2.jpeg": "/React-resort-landing-page/static/media/details-2.50c23e62.jpeg",
@@ -32,9 +32,9 @@
     "static/media/room-9.jpeg": "/React-resort-landing-page/static/media/room-9.7b17c49f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88065b3e.js",
-    "static/js/2.3d1af5a7.chunk.js",
+    "static/js/runtime-main.5fd56c23.js",
+    "static/js/2.c2a548ae.chunk.js",
     "static/css/main.af13743c.chunk.css",
-    "static/js/main.092cbab0.chunk.js"
+    "static/js/main.dc284ce0.chunk.js"
   ]
 }

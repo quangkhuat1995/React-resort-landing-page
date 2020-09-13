@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "451821e3b542e0cd60a36a94dd115971",
+    "revision": "4e8c746a3acab5dd91d799c91ae5793d",
     "url": "/React-resort-landing-page/index.html"
   },
   {
-    "revision": "ecd78873c4fdd23c1678",
+    "revision": "83d8a2ca2ff4f46ce3fb",
     "url": "/React-resort-landing-page/static/css/main.af13743c.chunk.css"
   },
   {
-    "revision": "a79f08efb4bb2d931977",
-    "url": "/React-resort-landing-page/static/js/2.3d1af5a7.chunk.js"
+    "revision": "cebc1475ef332f1306c3",
+    "url": "/React-resort-landing-page/static/js/2.c2a548ae.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/React-resort-landing-page/static/js/2.3d1af5a7.chunk.js.LICENSE.txt"
+    "url": "/React-resort-landing-page/static/js/2.c2a548ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ecd78873c4fdd23c1678",
-    "url": "/React-resort-landing-page/static/js/main.092cbab0.chunk.js"
+    "revision": "83d8a2ca2ff4f46ce3fb",
+    "url": "/React-resort-landing-page/static/js/main.dc284ce0.chunk.js"
   },
   {
-    "revision": "ed02b0b6f5baea1acae3",
-    "url": "/React-resort-landing-page/static/js/runtime-main.88065b3e.js"
+    "revision": "0831d53b83a88b34798d",
+    "url": "/React-resort-landing-page/static/js/runtime-main.5fd56c23.js"
   },
   {
     "revision": "aebaec51b2f82a2993fda821ca04e228",
