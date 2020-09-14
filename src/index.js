@@ -8,7 +8,7 @@ import { RoomProvider } from "./Context";
 
 ReactDOM.render(
   <RoomProvider>
-    <Router>
+    <Router basename="/resort/">
       <App />
     </Router>
   </RoomProvider>,
